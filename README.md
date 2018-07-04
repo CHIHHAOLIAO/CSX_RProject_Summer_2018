@@ -7,4 +7,4 @@ Hello,my name is 廖志豪(CHIH-HAO LIAO),這是我第一次接觸程式語言�
 		1. 崩潰== \
 	after class \
 		1. jelfeji
-
+https://github.com/CHIHHAOLIAO/CSX_RProject_Summer_2018/blob/master/hw1.Rmd

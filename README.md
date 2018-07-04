@@ -12,4 +12,4 @@
 ### After class
 
 	
- https://chihhaoliao.github.io/CSX_RProject_Summer_2018/
+ https://chihhaoliao.github.io/CSX_RProject_Summer_2018/Week%201/hw1.html

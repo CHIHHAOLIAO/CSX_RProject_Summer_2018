@@ -12,4 +12,4 @@
 ### After class
 
 	
-https://github.com/CHIHHAOLIAO/CSX_RProject_Summer_2018/blob/master/hw1.Rmd
+ https://chihhaoliao.github.io/CSX_RProject_Summer_2018/
